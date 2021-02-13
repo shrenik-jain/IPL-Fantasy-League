@@ -1,5 +1,5 @@
 player_ipl_id,Player_name,Player_country,Player_ipl_team
-CSK1,MS Dhoni (C),India,CSK
+CSK1,MS DhoniÂ (C),India,CSK
 CSK2,Suresh Raina,India,CSK
 CSK3,Kedar Jadhav,India,CSK
 CSK4,Ravindra Jadeja,India,CSK
@@ -19,7 +19,7 @@ CSK17,KM Asif,India,CSK
 CSK18,Jagadeesan Narayan,India,CSK
 CSK19,Monu Singh,India,CSK
 CSK20,Ruturaj Gaikwad,India,CSK
-RCB1,Virat Kohli (C),India,RCB
+RCB1,Virat KohliÂ (C),India,RCB
 RCB2,AB de Villiers,South Africa,RCB
 RCB3,Yuzvendra Chahal,India,RCB
 RCB4,Shivam Dube,India,RCB
@@ -48,7 +48,7 @@ DC12,Keemo Paul,West Indies,DC
 DC13,Harshal Patel,India,DC
 DC14,Sandeep Lamichhane,Nepal,DC
 DC15,Mayank Markande,India,DC
-MI1,Rohit Sharma (C),India,MI
+MI1,Rohit SharmaÂ (C),India,MI
 MI2,Hardik Pandya,India,MI
 MI3,Krunal Pandya,India,MI
 MI4,Jasprit Bumrah,India,MI
@@ -68,7 +68,7 @@ MI17,Trent Boult,Australia,MI
 MI18,Dhawal Kulkarni,India,MI
 KKR1,Sunil Narine,West Indies,KKR
 KKR2,Andre Russell,West Indies,KKR
-KKR3,Dinesh Karthik (C),India,KKR
+KKR3,Dinesh KarthikÂ (C),India,KKR
 KKR4,Kuldeep Yadav,India,KKR
 KKR5,Nitish Rana,India,KKR
 KKR6,Kamlesh Nagarkoti,India,KKR
@@ -115,7 +115,7 @@ SRH3,Bhuvneshwar Kumar,India,SRH
 SRH4,Siddarth Kaul,India,SRH
 SRH5,Shahbaz Nadeem,India,SRH
 SRH6,Vijay Shankar,India,SRH
-SRH7,Kane Williamson (C),New Zealand,SRH
+SRH7,Kane WilliamsonÂ (C),New Zealand,SRH
 SRH8,Khaleel Ahmed,India,SRH
 SRH9,Sandeep Sharma,India,SRH
 SRH10,Jonny Bairstow,England,SRH
